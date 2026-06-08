@@ -107,6 +107,10 @@ main {
   text-transform: uppercase;
 }
 
+.hero .eyebrow {
+  font-size: 1.02rem;
+}
+
 h1,
 h2,
 h3,
