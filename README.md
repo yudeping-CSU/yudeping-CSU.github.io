@@ -36,4 +36,4 @@ The academic profile, publications, projects, and contact information are based 
 
 <https://bs.csu.edu.cn/info/1793/24263.htm>
 
-The profile photo is loaded from the official Central South University Business School profile page.
+The profile photo is based on the official Central South University Business School profile image, with a locally adjusted background for visual consistency with the homepage.
